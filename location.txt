@@ -1,6 +1,6 @@
 http://appmoviehd.info/app/MovieHD.apk
 http://ydownloadapp.com/kokotime/kokotime.apk
-https://github.com/NitroXenon/Terrarium-Public/releases/download/1.5.9/app-release.apk
+https://github.com/NitroXenon/Terrarium-Public/releases/download/1.6.0/app-release.apk
 http://www.mediafire.com/file/mwvy3fbibd0qrjg/NewestMoviesHDv25.apk
 https://archive.org/download/cinemabox_2.1.0/cinemabox_2.1.0.apk
 http://www.thestreammachine.net/uploads/8/0/4/5/8045572/cartoon_hd.apk
