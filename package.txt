@@ -5,3 +5,4 @@ com.eduhd.edu.atthensix.tfive
 com.mobiapps.sunami
 io.gonative.android.pwrbey
 com.onebox.onlinebox
+tonybits.com.cinemax 
