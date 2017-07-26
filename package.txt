@@ -3,6 +3,6 @@ com.scrdev.pg.kokotimeapp
 com.nitroxenon.terrarium
 com.eduhd.edu.atthensix.tfive
 com.mobiapps.sunami
-io.gonative.android.pwrbey
+com.bizoteam.mobilebox
 com.onebox.onlinebox
 tonybits.com.cinemax
