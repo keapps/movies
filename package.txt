@@ -6,3 +6,4 @@ com.mobiapps.sunami
 com.bizoteam.mobilebox
 com.onebox.onlinebox
 tonybits.com.cinemax
+teatv.videoplayer.moviesguide
