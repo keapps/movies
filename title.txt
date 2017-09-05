@@ -1,11 +1,11 @@
-Movie HD Lite
+Movie HD 4.5
 KokoTime
 Terranium TV 1.7.6
-Newest Movies HD
+Newest Movies HD 2.5
 CartoonHD
-MegaBox HD
-Onebox HD
+MegaBox HD 1.0.3
+Onebox HD 1.0.0
 FreeFlix HQ 1.8.1.1
 TeaTv 2.8r 
 Tubi TV
-Showbox 
+Showbox 4.94
