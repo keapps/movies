@@ -2,7 +2,7 @@ com.ggagroups.moviehd.ui
 com.scrdev.pg.kokotimeapp
 com.nitroxenon.terrarium
 com.eduhd.edu.atthensix.tfive
-com.mobiapps.sunami
+com.fastbox.tranplay
 com.bizoteam.mobilebox
 com.onebox.onlinebox
 tonybits.com.cinemax
