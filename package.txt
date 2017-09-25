@@ -1,5 +1,5 @@
 com.ggagroups.moviehd.ui
-com.scrdev.pg.kokotimeapp
+com.netflix.mediaclient
 com.nitroxenon.terrarium
 com.newest.aun.dhnth.tn
 com.fastbox.tranplay
