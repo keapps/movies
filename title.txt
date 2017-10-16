@@ -9,3 +9,4 @@ FreeFlix HQ 2.0.0
 TeaTv 3.3r 
 Tubi TV
 Showbox 4.94
+TVZion 
