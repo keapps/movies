@@ -10,4 +10,4 @@ TeaTv 3.3r
 Tubi TV
 Showbox 4.94
 TVZion 1.7
-Cinebox Lite 1.0.6
+Cine box Lite 1.0.6
