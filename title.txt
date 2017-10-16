@@ -4,7 +4,7 @@ Terranium TV 1.8.0
 Newest Movies HD 3.2
 CartoonHD 3.0.3
 MegaBox HD 1.0.3
-Onebox HD 1.0.0
+Onebox HD 1.0.1
 FreeFlix HQ 2.0.0
 TeaTv 3.3r 
 Tubi TV
