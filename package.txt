@@ -10,3 +10,4 @@ teatv.videoplayer.moviesguide
 com.tubitv
 com.tdo.showbox
 app.tvzion.tvzion
+android.cinebox.mobi
