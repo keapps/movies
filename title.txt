@@ -6,7 +6,7 @@ CartoonHD 3.0.3
 MegaBox HD 1.0.5
 Onebox HD 1.0.1
 FreeFlix HQ 2.0.0
-TeaTv 3.3r 
+TeaTv 3.4 
 Tubi TV
 Showbox 4.94
 TVZion 1.7
