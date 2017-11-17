@@ -5,7 +5,7 @@ com.newest.aun.dhnth.tn
 com.fastbox.tranplay
 com.bizoteam.mobilebox
 com.onebox.onlinebox
-tonybits.com.cinemax
+tonybits.com.ffhq
 teatv.videoplayer.moviesguide
 com.tubitv
 com.tdo.showbox
