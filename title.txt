@@ -8,6 +8,6 @@ Onebox HD 1.0.1
 FreeFlix HQ V2.2.2
 TeaTv 4.1r
 Tubi TV
-Showbox 4.94
+Showbox 4.95
 TVZion 1.7
 Cine box Lite 1.0.6
