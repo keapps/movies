@@ -12,3 +12,4 @@ com.tdo.showbox
 app.tvzion.tvzion
 android.cinebox.mobi
 com.stremio.beta
+com.crunchyroll.crunchyroid
