@@ -11,3 +11,4 @@ Tubi TV
 Showbox 4.95
 TVZion 1.7
 Cine box Lite 1.0.6
+Stremio Beta 0.40.1
