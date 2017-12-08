@@ -5,7 +5,7 @@ Newest Movies HD 3.4
 CartoonHD 3.0.3
 MegaBox HD 1.0.5
 Onebox HD 1.0.1
-FreeFlix HQ V2.2.3.1
+FreeFlix HQ V2.2.4
 TeaTv 4.1r
 Tubi TV
 Showbox 4.95
