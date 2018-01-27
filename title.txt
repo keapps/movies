@@ -13,3 +13,4 @@ TVZion 1.7
 Cine box Lite 1.0.6
 Stremio Beta 0.41.1
 Crunchroll 2.1.8.1
+Ghostbmc 17.5.1 v2
