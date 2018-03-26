@@ -1,15 +1,1 @@
-com.ggagroups.moviehd.ui
-com.netflix.mediaclient
-com.nitroxenon.terrarium
-com.newest.aun.dhnth.tn
-com.fastbox.tranplay
-com.bizoteam.mobilebox
-com.onebox.onlinebox
-tonybits.com.ffhq
-teatv.videoplayer.moviesguide
-com.tubitv
-com.tdo.showbox
-app.tvzion.tvzion
-android.cinebox.mobi
-com.stremio.beta
-com.crunchyroll.crunchyroid
+
