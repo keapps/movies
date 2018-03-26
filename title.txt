@@ -1,15 +1,1 @@
-Movie HD 5.0
-Netflix
-Terranium TV 1.9.3
-Newest Movies HD 3.8
-CartoonHD 3.0.3
-MegaBox HD 1.0.5
-Onebox HD 1.0.1
-FreeFlix HQ V3.0.2
-TeaTv 5.5r
-Tubi TV
-Showbox 4.96
-TVZion 1.7
-Cine box Lite 1.0.6
-Stremio Beta 0.41.1
-Crunchroll 2.1.9
+
